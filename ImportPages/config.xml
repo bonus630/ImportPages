@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<resources>
+		<resource name="ImportPages" path="ImportPages.CorelAddon">
+			<resourceMap>
+				<!-- Menu item icon and string resource -->
+				<resEntry id="6946e359-c240-47c5-888a-e3fc69608d6d" string="10223" icon="104"/>
+      </resourceMap>
+		</resource>
+	</resources>
+</config>
